@@ -34,7 +34,7 @@ This project focuses on identifying potential **shipping cost leakages** in supe
 
 ---
 ## 🖼️ Dashboard Preview
-![Dashboard Overview](dashboard_preview.png)
+![Dashboard Overview](https://github.com/MrGenius18/shipping_costs_leakages/blob/bcd9ef627428d66ba795a226c4bdef177af2b5c9/Shipping%20Costs%20Leakages%20Analysis%20Dashboard.png)
 
 > 📸 **Explore the insights by checking the dashboard preview above!**
 
