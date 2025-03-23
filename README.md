@@ -34,6 +34,13 @@ This project focuses on identifying potential **shipping cost leakages** in supe
 
 ---
 
+## 📹 Demo Video
+[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+> 🎥 **Click the image above to watch the demo video!**
+
+---
+
 ## 🛠️ Tools and Technologies
 - **Power BI:** For visualizing data and building an interactive dashboard.
 - **Excel:** For data preparation and enrichment.
@@ -45,6 +52,7 @@ This project focuses on identifying potential **shipping cost leakages** in supe
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/MrGenius18/shipping_costs_leakages.git
+
 2. Open Power BI Dashboard:
     - Open Superstore sales Dashboard.pbix in Power BI.
  
