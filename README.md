@@ -33,11 +33,10 @@ This project focuses on identifying potential **shipping cost leakages** in supe
 - Provides insights into seasonal cost variations.
 
 ---
+## 🖼️ Dashboard Preview
+![Dashboard Overview](dashboard_preview.png)
 
-## 📹 Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-> 🎥 **Click the image above to watch the demo video!**
+> 📸 **Explore the insights by checking the dashboard preview above!**
 
 ---
 
